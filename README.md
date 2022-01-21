@@ -1,5 +1,5 @@
 # wordleBot
-##Simple wordle solving algorithm
+## Simple wordle solving algorithm
 After running the program, it will output the word one should guess. The user must enter this word into wordle, and then enter a string of 5 characters into the console.
 This stirng should follow the following format:
 * Use 'w' to indicate that a character is not in the word (wordle will output this as grey)
